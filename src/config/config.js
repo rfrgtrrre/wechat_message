@@ -1,7 +1,7 @@
 const params = {
-  appid: 'wxb98e44f5e7a956a0',
-  secret: 'a55ef17ddaa3c5bf0cabd344e6c7d17e',
-  touser: 'ohqRj6EBIUp4gzIQ3mUbULM9uQnQ',
+  appid: 'wxea8f704e29df35dd',
+  secret: 'c98e2b6ea2578d78c722a06979843356',
+  touser: 'oIvAm6e7DMBlBtg_4jF0CRvvng9g',
   template_id: 'LvDuTb8njKAv-nG_2L2GT-bkZPCJi_xmmk1Zn5zRF1U',
 }
 
